@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Local Job
+A Job Search (Online Job Portal) Web Application written in Python using Flask Framework
 
-You can use the [editor on GitHub](https://github.com/CHINMAYVIVEK/flask-job-portal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Author
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Chinmay Vivek
 
 ```markdown
 Syntax highlighted code block
