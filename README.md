@@ -5,6 +5,9 @@ A Job Search (Online Job Portal) Web Application written in Python using Flask F
 
 Chinmay Vivek
 
+### Dependency
+* `` $ sudo apt-get install libpq-dev python-dev ``
+* `` pip3 install flask-sqlalchemy psycopg2 ``
 ### License
 
 Copyright (C) 2018 Chinmay Vivek
