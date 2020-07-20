@@ -1,6 +1,7 @@
 ## Welcome to Local Job
-A Job Search (Online Job Portal) Web Application written in Python using Flask Framework
-* Deployed on Heroku <a href="https://localjob.herokuapp.com/" target="_blank">localjob</a>
+```A Job Search (Online Job Portal) Web Application written in Python using Flask Framework
+Deployed on Heroku <a href="https://localjob.herokuapp.com/" target="_blank">localjob</a>
+```
 ### Author
 
 Chinmay Vivek
