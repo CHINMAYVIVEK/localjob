@@ -9,6 +9,12 @@ Chinmay Vivek
 ### Dependency
 * `` $ sudo apt-get install libpq-dev python-dev ``
 * `` pip3 install flask-sqlalchemy psycopg2 ``
+
+### How to run
+* sudo apt-get install python3-venv 
+* python3 -m venv venv
+* . venv/bin/activate
+* flask run
 ### License
 
 Copyright (C) 2018 Chinmay Vivek
